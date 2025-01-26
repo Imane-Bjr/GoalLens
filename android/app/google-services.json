@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349259493121",
+    "project_id": "foot-app-3d3f0",
+    "storage_bucket": "foot-app-3d3f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349259493121:android:304433472593f62a163500",
+        "android_client_info": {
+          "package_name": "com.foot.app.foot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgTv-hqjDmGEnlQsWcrS_6bl_xlFSUgCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
