@@ -3,7 +3,9 @@
 GoalLens is a Flutter-based application designed to bring AI-driven solutions to enhance user interaction and data analysis. The project integrates cutting-edge technologies to provide a seamless experience across multiple functionalities, including chatbot interaction, real-time data scraping, and video processing.
 
 ---
-![Project Overview](assets/overview.png)
+<p align="center">
+  <img src="assets/overview.png" alt="Project Overview" width="300">
+</p>
 
 ## 🎯 Features 
 
