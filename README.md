@@ -12,7 +12,7 @@ GoalLens is a Flutter-based application designed to bring AI-driven solutions to
 <a href="https://youtu.be/RikcN1a3zDI" target="blank">
 <p align="center">Watch GoalLens Project Demonstration Video - V1</p>
 <p align="center">
-<img width="70%" src="https://github.com/Imane-Bjr/GoalLens/tree/master/assets/demo.png" alt="demo" /></p>
+<img width="70%" src="https://github.com/Imane-Bjr/GoalLens/blob/master/assets/demo.png" alt="demo"/></p>
 </a>
 
 ## 🎯 Features 
